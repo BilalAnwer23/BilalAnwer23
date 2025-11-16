@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Bilal  
+# Hi, I'm Bilal Anwer
 ### Unity Developer • Gameplay Programmer • Systems Designer
 
 I build **fast, scalable, and user-friendly software** — from commercial mobile apps to immersive game systems.  
